@@ -1,4 +1,4 @@
-# graphLassoMLE
+# graphLassoMLT
 
 <p align="center">
 <a href="https://github.com/outlawhayden/graphLassoMLE/blob/main/materials/poster_image.png?raw=true">
