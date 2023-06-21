@@ -1,8 +1,8 @@
 # graphLassoMLE
 
 <p align="center">
-<a href="https://github.com/outlawhayden/graphLassoMLE/blob/master/materials/poster_image.png?raw=true">
-<img src="https://github.com/outlawhayden/graphLassoMLE/blob/master/assets/poster_image.png?raw=true">
+<a href="https://github.com/outlawhayden/graphLassoMLE/blob/main/materials/poster_image.png?raw=true">
+<img src="https://github.com/outlawhayden/graphLassoMLE/blob/main/assets/poster_image.png?raw=true">
 </a>
 </p>
 
