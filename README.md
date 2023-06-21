@@ -1,5 +1,12 @@
 # graphLassoMLE
 
+<p align="center">
+<a href="https://github.com/outlawhayden/graphLassoMLE/blob/master/materials/poster_image.png?raw=true">
+<img src="https://github.com/outlawhayden/graphLassoMLE/blob/master/assets/poster_image.png?raw=true">
+</a>
+</p>
+
+
 ## Background
 
 This project is an implementation of the calculation of the Maximum Likelihood Threshold for samples from a multinormal distribution, and numerical modeling for when the sample size is less than the number of dimensions of the distribution for distributions less than nine dimensions.
