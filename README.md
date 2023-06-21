@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/outlawhayden/graphLassoMLE/blob/main/materials/poster_image.png?raw=true">
-<img src="https://github.com/outlawhayden/graphLassoMLE/blob/main/assets/poster_image.png?raw=true">
+<img src="https://github.com/outlawhayden/graphLassoMLE/blob/main/materials/poster_image.png?raw=true">
 </a>
 </p>
 
