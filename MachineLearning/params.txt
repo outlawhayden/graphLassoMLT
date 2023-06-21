@@ -1,7 +1,0 @@
-Enter number of dimensions to sample from (Integer > 2):  3
-Enter number of iterations to converge (positive integer):  1000
-Enter number of iterations per alpha (positive integer):  500
-Enter alpha start value (positive float):  0.001
-Enter alpha step value (positive float):  0.001
-Enter alpha end value (positive float > startalpha):  0.3
-Enter % of data to be used in ml model training set: (float between 0 and 1 non-inclusive) 0.80
